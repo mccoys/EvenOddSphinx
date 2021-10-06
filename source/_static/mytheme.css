@@ -1,0 +1,7 @@
+.fancy > tbody > tr.row-even {
+	background-color: #999;
+}
+
+.fancy > tbody > tr.row-odd {
+	background-color: #444;
+}
